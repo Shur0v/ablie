@@ -1,0 +1,5 @@
+{
+  "name": "Abliefernachweis Pro",
+  "description": "Modularer Baukasten für Installationsprotokolle und Abliefernachweise mit digitaler Unterschrift und PDF-Export.",
+  "requestFramePermissions": ["camera"]
+}
